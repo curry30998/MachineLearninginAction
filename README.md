@@ -3,7 +3,8 @@
 #### 介绍
 Peter Harrington机器学习实战配套参考code
 ####
-PyCharm 实现
+机器学习入门PyCharm 实现
 ####
-机器学习入门 
-
+目录
+####
+01 k近邻算法
